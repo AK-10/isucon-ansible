@@ -14,6 +14,7 @@
     - mysql
     - perl
     - golang
+    - ruby
     - webapp.mysql
     - webapp.golang
     - webapp.perl

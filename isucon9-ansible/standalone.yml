@@ -15,6 +15,7 @@
       # - perl
     - golang
     - ruby
+    - nodejs
     - webapp.mysql
     - webapp.golang
       # - webapp.perl
